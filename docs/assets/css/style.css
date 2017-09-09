@@ -462,7 +462,7 @@ div.open-overlay:hover
 
 .overlay-container
 {
- -    position: relative;
+ -    position: absolute;
  -
  -    display: none;
  -    overflow: auto;
