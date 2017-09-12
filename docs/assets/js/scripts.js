@@ -320,7 +320,7 @@ $(document).ready( function(){
 	$('.slider').cycle({
 		fx : 'scrollVert',
 		timeout: 7000,
-		delay: 1000,
+		delay: 500,
 		speed: 500,
 		slides: '.slide'
 	});
