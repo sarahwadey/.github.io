@@ -319,9 +319,9 @@ $(document).ready( function(){
 	
 	$('.slider').cycle({
 		fx : 'scrollVert',
-		timeout: 3000,
+		timeout: 4000,
 		delay: 1000,
-		speed: 500,
+		speed: 800,
 		slides: '.slide'
 	});
 	
