@@ -319,7 +319,7 @@ $(document).ready( function(){
 	
 	$('.slider').cycle({
 		fx : 'scrollVert',
-		timeout: 7000,
+		timeout: 3000,
 		delay: 1000,
 		speed: 500,
 		slides: '.slide'
