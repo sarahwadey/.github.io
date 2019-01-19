@@ -411,9 +411,9 @@ canvas
     margin: 0 auto;
 
     cursor: inherit;
-    -webkit-transition: all .1s ease 0s;
-       -moz-transition: all .1s ease 0s;
-            transition: all .1s ease 0s;
+    -webkit-transition: all .6s ease 0s;
+       -moz-transition: all .6s ease 0s;
+            transition: all .6s ease 0s;
 
     color: inherit;
     background: rgba(255,255,255,.0);
@@ -452,9 +452,9 @@ div.open-overlay:hover
     height: 100%;
     min-height: 100%;
 
-    -webkit-transition: all .7s ease-in-out 0s;
-       -moz-transition: all .7s ease-in-out 0s;
-            transition: all .7s ease-in-out 0s;
+    -webkit-transition: all .2s ease-in-out 0s;
+       -moz-transition: all .2s ease-in-out 0s;
+            transition: all .2s ease-in-out 0s;
 
     background: rgba(0, 0, 0, .6);
 	z-index: 10;
